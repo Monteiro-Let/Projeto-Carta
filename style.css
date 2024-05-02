@@ -1,0 +1,20 @@
+
+body {
+    margin: 60px 60px 60px;
+}
+
+.titulo, .texto {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+}
+
+#paragrafo {
+    text-align: justify;
+}
+
+#assinado, #agradecimento {
+    text-align: end;
+}
